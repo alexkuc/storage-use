@@ -4,8 +4,8 @@ recusively calculates size of folders/directories starting from the current path
 
 output is given in descending order and units are megabytes(MB)
 
-### note regarding '\'
-'\' was added to the script to allow easy c&p between terminal sessions
+### note regarding '\\'
+'\\' was added to the script to allow easy c&p between terminal sessions
 
 ### how to use
 
